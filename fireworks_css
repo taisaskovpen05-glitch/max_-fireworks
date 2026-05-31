@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+
+}
+
+header {
+    border: 10px solid navy;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+footer p{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.fare {
+     background-color: yellow; 
+}
